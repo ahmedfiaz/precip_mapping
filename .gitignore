@@ -1,1 +1,11 @@
 plots/P-crh_IMERG_joint_pdf.pdf
+prc_pdf.npy
+files/era5_levels.nc
+for_unil/era5_condensed_thermo1_2016_01_02.npz
+for_unil/NN_6layers_full_vert_Tq.pth
+for_unil/thermo_norm_info.npz
+for_unil/Tq_prc_matched_2016_01_02.npz
+plots/IMERG_precip_pdf.pdf
+plots/P-B_IMERG_only_joint_pdf.pdf
+plots/P-B_IMERG_with_joint_pdf.pdf
+plots/P-B_IMERG_wo_joint_pdf.pdf
